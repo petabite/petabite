@@ -1,7 +1,9 @@
 <h1 align="center">Sup! 👋</h1>
-<a href="https://petabite.github.io">
-    <h2 align="center">ｐｅｔａｂｉｔｅ．ｇｉｔｈｕｂ．ｉｏ</h2>
-</a>
+<p align="center">
+    <a href="https://petabite.github.io">
+        ｐｅｔａｂｉｔｅ．ｇｉｔｈｕｂ．ｉｏ
+    </a>
+</p>
 
 
 ## Stats 📈
