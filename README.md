@@ -23,11 +23,12 @@
 
 ## Stats 📈
 
-<p align="center" style="display:flex;justify-content:space-around;">
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
-        <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petabite">
-</p>
+<table>
+    <tr>
+        <td><img
+            src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petabite"></td>
+    </tr>
+</table>
 
 <h3 align="center">⬇️ Check out my repos! ⬇️</h3>
