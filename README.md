@@ -22,6 +22,14 @@
 - **DatStreamer** - [v1.1](https://github.com/petabite/DatStreamer/releases/tag/v1.1)
 - **uPixels** - [v1.2](https://github.com/petabite/uPixels/releases/tag/v1.2)
 
+## Projects 👷🏼‍♂️
+
+- [rootup](https://rootup.appspot.com/) - Climate action made easy
+- [Salary Database](https://github.com/drizzleco/salary-database) - H1B Salary Data Browser and API
+- [create-flask-app](https://github.com/drizzleco/create-flask-app) - autogenerate boilerplate code for a flask app
+- [exchange](https://github.com/drizzleco/exchange) - mock auction system
+- [Twitter Blast](https://github.com/drizzleco/twitter-blast) - connect with Twitter followers with a DM
+
 ## Stats 📈[🐍](https://petabite.github.io/JSnake/jsnake.html)
 
 <table>
