@@ -25,6 +25,7 @@
 ## Projects 👷🏼‍♂️
 
 - [rootup](https://rootup.appspot.com/) - Climate action made easy
+- [Feeds](https://feedzz.herokuapp.com/) - upload and view data from your various Wi-Fi enabled microcontrollers
 - [Salary Database](https://github.com/drizzleco/salary-database) - H1B Salary Data Browser and API
 - [create-flask-app](https://github.com/drizzleco/create-flask-app) - autogenerate boilerplate code for a flask app
 - [exchange](https://github.com/drizzleco/exchange) - mock auction system
