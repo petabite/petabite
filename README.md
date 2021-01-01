@@ -18,9 +18,9 @@
 
 ## Latest Releases ✅
 
+- **uPixels** - [v2.0](https://github.com/petabite/uPixels/releases/tag/v2.0)
 - **libsonyapi** - [v1.0](https://github.com/petabite/libsonyapi/releases)
 - **DatStreamer** - [v1.1](https://github.com/petabite/DatStreamer/releases/tag/v1.1)
-- **uPixels** - [v1.2](https://github.com/petabite/uPixels/releases/tag/v1.2)
 
 ## Projects 👷🏼‍♂️
 
