@@ -22,10 +22,15 @@
 - **libsonyapi** - [v1.0](https://github.com/petabite/libsonyapi/releases)
 - **DatStreamer** - [v1.1](https://github.com/petabite/DatStreamer/releases/tag/v1.1)
 
+## Currently Working On 👨🏻‍💻...
+
+- [ideaHunt](https://github.com/drizzleco/ideahunt) - Welcome to the land of ideas
+
 ## Projects 👷🏼‍♂️
 
 - [rootup](https://rootup.herokuapp.com/) - Climate action made easy
 - [Feeds](https://feedzz.herokuapp.com/) - upload and view data from your various Wi-Fi enabled microcontrollers
+- [Drawma](https://puzzlepieces.onrender.com/) - a multiplayer drawing game built with React and Firebase
 - [Salary Database](https://github.com/drizzleco/salary-database) - H1B Salary Data Browser and API
 - [create-flask-app](https://github.com/drizzleco/create-flask-app) - autogenerate boilerplate code for a flask app
 - [exchange](https://github.com/drizzleco/exchange) - mock auction system
