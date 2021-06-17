@@ -24,11 +24,12 @@
 
 ## Currently Working On 👨🏻‍💻...
 
-- [ideaHunt](https://github.com/drizzleco/ideahunt) - Welcome to the land of ideas
+- [jufa](https://github.com/youngppl/connect) - out of this world conversations.
 
 ## Projects 👷🏼‍♂️
 
 - [rootup](https://rootup.herokuapp.com/) - Climate action made easy
+- [ideaHunt](https://github.com/drizzleco/ideahunt) - Welcome to the land of ideas
 - [Feeds](https://feedzz.herokuapp.com/) - upload and view data from your various Wi-Fi enabled microcontrollers
 - [Drawma](https://puzzlepieces.onrender.com/) - a multiplayer drawing game built with React and Firebase
 - [Salary Database](https://github.com/drizzleco/salary-database) - H1B Salary Data Browser and API
