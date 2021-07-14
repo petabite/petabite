@@ -1,7 +1,7 @@
 <h3 align="center"><strong>尸廾工𠃊工尸 乙廾八𠘨𠂎</strong></h3>
 <h3 align="center">
-    <a href="https://petabite.github.io">
-        ｐｅｔａｂｉｔｅ．ｇｉｔｈｕｂ．ｉｏ
+    <a href="https://philipzha.ng">
+        ｐｈｉｌｉｐｚｈａ．ｎｇ
     </a>
 </h3>
 
