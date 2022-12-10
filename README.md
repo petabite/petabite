@@ -18,16 +18,18 @@
 
 ## Latest Releases ✅
 
+- **create-flask-app** - [v1.0.3](https://github.com/drizzleco/create-flask-app/releases/tag/v1.0.3)
 - **uPixels** - [v2.0](https://github.com/petabite/uPixels/releases/tag/v2.0)
 - **libsonyapi** - [v1.0](https://github.com/petabite/libsonyapi/releases)
 - **DatStreamer** - [v1.1](https://github.com/petabite/DatStreamer/releases/tag/v1.1)
 
 ## Currently Working On 👨🏻‍💻...
 
-- [jufa](https://github.com/youngppl/connect) - out of this world conversations.
+- [TAP Foster Dog Matching](https://github.com/TritonSE/TAP-Foster-Dog-Matching) - matching fosters and dogs for [The Animal Pad](https://theanimalpad.org/)
 
 ## Projects 👷🏼‍♂️
 
+- [jufa](https://github.com/youngppl/connect) - out of this world conversations.
 - [rootup](https://rootup.herokuapp.com/) - Climate action made easy
 - [ideaHunt](https://github.com/drizzleco/ideahunt) - Welcome to the land of ideas
 - [Feeds](https://feedzz.herokuapp.com/) - upload and view data from your various Wi-Fi enabled microcontrollers
