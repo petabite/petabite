@@ -1,0 +1,10 @@
+name: Update README with Rocco
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  rocco:
+    runs-on: ubuntu-latest
+    name: Update README
+    steps:
+      - uses: petabite/rocco@v1
