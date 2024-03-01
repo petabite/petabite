@@ -1,5 +1,9 @@
 name: Update README with Rocco
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "45 8 * * *" # Run every day at 12:45 AM PST
+
 permissions:
   contents: write
 jobs:
@@ -7,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     name: Update README
     steps:
-      - uses: petabite/rocco@main
+      - uses: petabite/rocco@v1
