@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     name: Update README
     steps:
-      - uses: petabite/rocco@v1
+      - uses: petabite/rocco@main
