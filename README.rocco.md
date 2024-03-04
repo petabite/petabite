@@ -16,20 +16,18 @@
     <img src="https://komarev.com/ghpvc/?username=petabite&label=visitors" />
 </p>
 
+## Currently Working On 👨🏻‍💻...
+
+<!-- rocco: recent_contributions -->
+
 ## Latest Releases ✅
 
 <!-- rocco: recent_releases -->
 
-## Working On 👨🏻‍💻...
+## Past Projects 👷🏼‍♂️
 
-<!-- rocco: recent_contributions -->
-
-## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
-
-<!-- rocco: recent_languages -->
-
-## Projects 👷🏼‍♂️
-
+- [shitalké](https://shitalke.com/) - your restroom experience should be valued.
+- [HarvestHaul](https://harvesthaul.com/) - buying local has never been easier.
 - [rootup](https://rootup.herokuapp.com/) - Climate action made easy
 - [ideaHunt](https://github.com/drizzleco/ideahunt) - Welcome to the land of ideas
 - [Feeds](https://feedzz.herokuapp.com/) - upload and view data from your various Wi-Fi enabled microcontrollers
@@ -39,7 +37,15 @@
 - [exchange](https://github.com/drizzleco/exchange) - mock auction system
 - [Twitter Blast](https://github.com/drizzleco/twitter-blast) - connect with Twitter followers with a DM
 
-<img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+## Stats 🤓
+
+<!-- rocco: profile_stats -->
+
+## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
+
+<!-- rocco: recent_languages -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
 
 <!-- <table>
     <tr>
