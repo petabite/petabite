@@ -21,10 +21,10 @@
 
 ## Currently Working On 👨🏻‍💻...
 
+- [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
 - [petabite](https://github.com/petabite/petabite) - my profile readme
 - [rocco](https://github.com/petabite/rocco) - rocco keeps your github profile readme up to date
 - [TSE-Constellation](https://github.com/TritonSE/TSE-Constellation) - TSE Constellation is a unified set of components aiming to give TSE projects a cohesive look and feel.
-- [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
 - [resume](https://github.com/petabite/resume) - my résumé
 
 
@@ -58,7 +58,7 @@
 
 :star: **79** total stars earned (all time) 
 
-:memo: **43** total commits authored this year (all time: **1,302**)
+:memo: **46** total commits authored this year (all time: **1,305**)
 
 :rocket: **10** total pull requests created this year (all time: **221**)
 
@@ -69,19 +69,13 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
-        Dart|  ██████████████████████████████ 45.83%
-  TypeScript|  ██████████████████████ 33.85%
-         TeX|  ███ 5.97%
-  JavaScript|  ██ 4.31%
-      Python|  ██ 4.00%
-         CSS|  ██ 3.66%
-       Shell|   1.33%
-        HTML|   0.35%
-        Ruby|   0.33%
-         MDX|   0.23%
-       Swift|   0.10%
-      Kotlin|   0.03%
- Objective-C|   0.01%
+ TypeScript|  ██████████████████████████████ 68.91%
+        TeX|  █████ 11.60%
+ JavaScript|  ███ 8.37%
+        CSS|  ███ 7.40%
+      Shell|  █ 2.58%
+       HTML|   0.69%
+        MDX|   0.45%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
