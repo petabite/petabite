@@ -62,17 +62,17 @@
 
 :rocket: **10** total pull requests created this year (all time: **221**)
 
-:bangbang: **17** total issues created this year (all time: **82**)
+:bangbang: **18** total issues created this year (all time: **83**)
 
 
 
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
- TypeScript|  ██████████████████████████████ 70.13%
-        TeX|  ████ 11.10%
- JavaScript|  ███ 8.01%
-        CSS|  ███ 7.09%
+ TypeScript|  ██████████████████████████████ 70.15%
+        TeX|  ████ 11.09%
+ JavaScript|  ███ 8.00%
+        CSS|  ███ 7.08%
       Shell|  █ 2.47%
        HTML|   0.77%
         MDX|   0.43%
