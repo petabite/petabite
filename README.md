@@ -25,7 +25,6 @@
 - [petabite](https://github.com/petabite/petabite) - my profile readme
 - [rocco](https://github.com/petabite/rocco) - rocco keeps your github profile readme up to date
 - [TSE-Constellation](https://github.com/TritonSE/TSE-Constellation) - TSE Constellation is a unified set of components aiming to give TSE projects a cohesive look and feel.
-- [resume](https://github.com/petabite/resume) - my résumé
 
 
 ## Latest Releases ✅
@@ -69,13 +68,12 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
- TypeScript|  ██████████████████████████████ 70.15%
-        TeX|  ████ 11.09%
- JavaScript|  ███ 8.00%
-        CSS|  ███ 7.08%
-      Shell|  █ 2.47%
-       HTML|   0.77%
-        MDX|   0.43%
+ TypeScript|  ██████████████████████████████ 78.91%
+ JavaScript|  ███ 9.00%
+        CSS|  ███ 7.96%
+      Shell|  █ 2.78%
+       HTML|   0.86%
+        MDX|   0.49%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
