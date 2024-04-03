@@ -66,12 +66,12 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
- TypeScript|  ██████████████████████████████ 81.66%
- JavaScript|  ██ 7.75%
-        CSS|  ██ 7.03%
-      Shell|   2.39%
-       HTML|   0.74%
-        MDX|   0.42%
+ TypeScript|  ██████████████████████████████ 86.09%
+ JavaScript|  ██ 5.88%
+        CSS|  █ 5.33%
+      Shell|   1.82%
+       HTML|   0.56%
+        MDX|   0.32%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
