@@ -55,23 +55,23 @@
 
 :star: **85** total stars earned (all time) 
 
-:memo: **46** total commits authored this year (all time: **1,305**)
+:memo: **47** total commits authored this year (all time: **1,306**)
 
-:rocket: **13** total pull requests created this year (all time: **224**)
+:rocket: **14** total pull requests created this year (all time: **225**)
 
-:bangbang: **18** total issues created this year (all time: **83**)
+:bangbang: **29** total issues created this year (all time: **94**)
 
 
 
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
- TypeScript|  ██████████████████████████████ 86.09%
- JavaScript|  ██ 5.88%
-        CSS|  █ 5.33%
-      Shell|   1.82%
-       HTML|   0.56%
-        MDX|   0.32%
+ TypeScript|  ██████████████████████████████ 87.24%
+ JavaScript|  █ 5.40%
+        CSS|  █ 4.89%
+      Shell|   1.67%
+       HTML|   0.52%
+        MDX|   0.29%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
