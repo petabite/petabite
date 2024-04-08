@@ -21,6 +21,7 @@
 
 ## Currently Working On 👨🏻‍💻...
 
+- [uPixels](https://github.com/petabite/uPixels) - WS2812 RGB LED Strip Controller for MicroPython Enabled Micro-Controllers
 - [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
 - [TSE-Constellation](https://github.com/TritonSE/TSE-Constellation) - TSE Constellation is a unified set of components aiming to give TSE projects a cohesive look and feel.
 
@@ -53,7 +54,7 @@
 
 ## Stats 🤓
 
-:star: **85** total stars earned (all time) 
+:star: **86** total stars earned (all time) 
 
 :memo: **48** total commits authored this year (all time: **1,307**)
 
@@ -66,12 +67,13 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
- TypeScript|  ██████████████████████████████ 87.44%
- JavaScript|  █ 5.31%
-        CSS|  █ 4.81%
-      Shell|   1.64%
-       HTML|   0.51%
-        MDX|   0.29%
+ TypeScript|  ██████████████████████████████ 79.50%
+ JavaScript|  ██ 6.40%
+        CSS|  █ 4.92%
+       HTML|  █ 4.45%
+     Python|  █ 2.98%
+      Shell|   1.49%
+        MDX|   0.26%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
