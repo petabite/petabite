@@ -21,8 +21,8 @@
 
 ## Currently Working On 👨🏻‍💻...
 
-- [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
 - [tech-assignment-1-pethanatarajan-philipzhang](https://github.com/UCSD-ECE140/tech-assignment-1-pethanatarajan-philipzhang) - 
+- [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
 - [uPixels](https://github.com/petabite/uPixels) - WS2812 RGB LED Strip Controller for MicroPython Enabled Micro-Controllers
 
 
@@ -67,12 +67,12 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
- TypeScript|  ██████████████████████████████ 70.18%
-     Python|  ███████ 16.50%
- JavaScript|  ██ 6.64%
-       HTML|  █ 4.53%
-      Shell|   1.58%
-        CSS|   0.58%
+ TypeScript|  ██████████████████████████████ 69.79%
+     Python|  ███████ 16.96%
+ JavaScript|  ██ 6.60%
+       HTML|  █ 4.51%
+      Shell|   1.57%
+        CSS|   0.57%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
