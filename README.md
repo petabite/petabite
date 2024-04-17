@@ -21,8 +21,8 @@
 
 ## Currently Working On 👨🏻‍💻...
 
-- [tech-assignment-1-pethanatarajan-philipzhang](https://github.com/UCSD-ECE140/tech-assignment-1-pethanatarajan-philipzhang) - 
 - [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
+- [tech-assignment-1-pethanatarajan-philipzhang](https://github.com/UCSD-ECE140/tech-assignment-1-pethanatarajan-philipzhang) - 
 - [uPixels](https://github.com/petabite/uPixels) - WS2812 RGB LED Strip Controller for MicroPython Enabled Micro-Controllers
 
 
