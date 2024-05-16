@@ -24,7 +24,6 @@
 - [TSE-Constellation](https://github.com/TritonSE/TSE-Constellation) - TSE Constellation is a unified set of components aiming to give TSE projects a cohesive look and feel.
 - [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
 - [tech-assignment-1-pethanatarajan-philipzhang](https://github.com/UCSD-ECE140/tech-assignment-1-pethanatarajan-philipzhang) - 
-- [uPixels](https://github.com/petabite/uPixels) - WS2812 RGB LED Strip Controller for MicroPython Enabled Micro-Controllers
 
 
 ## Latest Releases ✅
@@ -59,7 +58,7 @@
 
 :memo: **67** total commits authored this year (all time: **1,326**)
 
-:rocket: **19** total pull requests created this year (all time: **230**)
+:rocket: **20** total pull requests created this year (all time: **231**)
 
 :bangbang: **38** total issues created this year (all time: **103**)
 
@@ -68,13 +67,13 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
- TypeScript|  ██████████████████████████████ 73.98%
-     Python|  ████ 11.01%
- JavaScript|  █ 4.82%
-        CSS|  █ 4.77%
-       HTML|  █ 3.26%
-      Shell|   1.99%
-        MDX|   0.17%
+ TypeScript|  ██████████████████████████████ 79.21%
+     Python|  ███ 9.42%
+        CSS|  █ 4.61%
+ JavaScript|  █ 3.93%
+      Shell|   2.09%
+       HTML|   0.56%
+        MDX|   0.18%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
