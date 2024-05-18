@@ -21,9 +21,8 @@
 
 ## Currently Working On 👨🏻‍💻...
 
-- [TSE-Constellation](https://github.com/TritonSE/TSE-Constellation) - TSE Constellation is a unified set of components aiming to give TSE projects a cohesive look and feel.
 - [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
-- [tech-assignment-1-pethanatarajan-philipzhang](https://github.com/UCSD-ECE140/tech-assignment-1-pethanatarajan-philipzhang) - 
+- [TSE-Constellation](https://github.com/TritonSE/TSE-Constellation) - TSE Constellation is a unified set of components aiming to give TSE projects a cohesive look and feel.
 
 
 ## Latest Releases ✅
@@ -67,13 +66,12 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
- TypeScript|  ██████████████████████████████ 79.26%
-     Python|  ███ 9.23%
-        CSS|  █ 4.89%
- JavaScript|  █ 3.85%
-      Shell|   2.04%
-       HTML|   0.55%
-        MDX|   0.18%
+ TypeScript|  ██████████████████████████████ 87.32%
+        CSS|  █ 5.38%
+ JavaScript|  █ 4.24%
+      Shell|   2.25%
+       HTML|   0.60%
+        MDX|   0.20%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
