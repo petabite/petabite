@@ -21,6 +21,7 @@
 
 ## Currently Working On 👨🏻‍💻...
 
+- [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
 - [supernetes](https://github.com/petabite/supernetes) - home in the cloud for my projects
 - [uPixels](https://github.com/petabite/uPixels) - WS2812 RGB LED Strip Controller for MicroPython Enabled Micro-Controllers
 
@@ -55,9 +56,9 @@
 
 :star: **90** total stars earned (all time) 
 
-:memo: **97** total commits authored this year (all time: **1,356**)
+:memo: **98** total commits authored this year (all time: **1,357**)
 
-:rocket: **33** total pull requests created this year (all time: **244**)
+:rocket: **34** total pull requests created this year (all time: **245**)
 
 :bangbang: **39** total issues created this year (all time: **104**)
 
@@ -66,13 +67,16 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
-       HTML|  ██████████████████████████████ 38.20%
-     Python|  ████████████████████████ 31.67%
- JavaScript|  ██████████ 13.70%
-        CSS|  █████ 7.38%
-        HCL|  ████ 6.05%
- Dockerfile|  █ 1.81%
-   Makefile|   1.19%
+ TypeScript|  ██████████████████████████████ 84.33%
+ JavaScript|  █ 5.28%
+       HTML|  █ 4.13%
+     Python|  █ 3.06%
+      Shell|   1.25%
+        CSS|   0.71%
+        HCL|   0.59%
+        Pug|   0.35%
+ Dockerfile|   0.18%
+   Makefile|   0.11%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
