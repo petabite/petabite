@@ -21,6 +21,7 @@
 
 ## Currently Working On 👨🏻‍💻...
 
+- [notif](https://github.com/petabite/notif) - Programmatically send custom push notifications to your phone 
 - [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
 
 
@@ -54,7 +55,7 @@
 
 :star: **95** total stars earned (all time) 
 
-:memo: **100** total commits authored this year (all time: **1,359**)
+:memo: **101** total commits authored this year (all time: **1,360**)
 
 :rocket: **36** total pull requests created this year (all time: **247**)
 
@@ -65,11 +66,15 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
- TypeScript|  ██████████████████████████████ 93.38%
- JavaScript|  █ 4.37%
-      Shell|   1.38%
-       HTML|   0.48%
-        Pug|   0.39%
+    TypeScript|  ██████████████████████████████ 91.16%
+    JavaScript|  █ 4.35%
+ Objective-C++|   1.62%
+         Shell|   1.33%
+          Ruby|   0.59%
+          HTML|   0.46%
+           Pug|   0.37%
+   Objective-C|   0.10%
+         Swift|   0.03%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
