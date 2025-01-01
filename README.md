@@ -55,11 +55,11 @@
 
 :star: **95** total stars earned (all time) 
 
-:memo: **101** total commits authored this year (all time: **1,360**)
+:memo: **0** total commits authored this year (all time: **1,360**)
 
-:rocket: **36** total pull requests created this year (all time: **247**)
+:rocket: **0** total pull requests created this year (all time: **247**)
 
-:bangbang: **39** total issues created this year (all time: **104**)
+:bangbang: **0** total issues created this year (all time: **104**)
 
 
 
