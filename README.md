@@ -21,6 +21,7 @@
 
 ## Currently Working On 👨🏻‍💻...
 
+- [uPixels](https://github.com/petabite/uPixels) - WS2812 RGB LED Strip Controller for MicroPython Enabled Micro-Controllers
 - [notif](https://github.com/petabite/notif) - Programmatically send custom push notifications to your phone 
 - [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
 
@@ -55,7 +56,7 @@
 
 :star: **95** total stars earned (all time) 
 
-:memo: **0** total commits authored this year (all time: **1,360**)
+:memo: **4** total commits authored this year (all time: **1,364**)
 
 :rocket: **0** total pull requests created this year (all time: **247**)
 
@@ -66,14 +67,16 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
-    TypeScript|  ██████████████████████████████ 91.16%
-    JavaScript|  █ 4.35%
- Objective-C++|   1.62%
-         Shell|   1.33%
-          Ruby|   0.59%
-          HTML|   0.46%
-           Pug|   0.37%
-   Objective-C|   0.10%
+    TypeScript|  ██████████████████████████████ 82.94%
+    JavaScript|  ██ 5.84%
+          HTML|  █ 4.20%
+        Python|  █ 2.91%
+ Objective-C++|   1.47%
+         Shell|   1.21%
+          Ruby|   0.53%
+           CSS|   0.44%
+           Pug|   0.34%
+   Objective-C|   0.09%
          Swift|   0.03%
 ```
 
