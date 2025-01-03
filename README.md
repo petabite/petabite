@@ -56,7 +56,7 @@
 
 :star: **95** total stars earned (all time) 
 
-:memo: **4** total commits authored this year (all time: **1,364**)
+:memo: **8** total commits authored this year (all time: **1,368**)
 
 :rocket: **0** total pull requests created this year (all time: **247**)
 
@@ -67,10 +67,10 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
-    TypeScript|  ██████████████████████████████ 82.94%
+    TypeScript|  ██████████████████████████████ 82.93%
     JavaScript|  ██ 5.84%
           HTML|  █ 4.20%
-        Python|  █ 2.91%
+        Python|  █ 2.93%
  Objective-C++|   1.47%
          Shell|   1.21%
           Ruby|   0.53%
