@@ -22,7 +22,6 @@
 ## Currently Working On 👨🏻‍💻...
 
 - [CBL-Mobile-Application](https://github.com/TritonSE/CBL-Mobile-Application) - An application centralizing the resources of Call BlackLine, a non-profit org providing a space for peer support, counseling, and reporting of mistreatment
-- [uPixels](https://github.com/petabite/uPixels) - WS2812 RGB LED Strip Controller for MicroPython Enabled Micro-Controllers
 
 
 ## Latest Releases ✅
@@ -66,14 +65,10 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
-        Dart|  ██████████████████████████████ 81.54%
-        HTML|  ██ 7.37%
-      Python|  ██ 5.71%
-  JavaScript|  █ 3.67%
-         CSS|   0.86%
-        Ruby|   0.59%
-       Swift|   0.18%
-      Kotlin|   0.06%
+        Dart|  ██████████████████████████████ 98.98%
+        Ruby|   0.72%
+       Swift|   0.21%
+      Kotlin|   0.07%
  Objective-C|   0.02%
 ```
 
