@@ -51,7 +51,7 @@
 
 ## Stats 🤓
 
-:star: **96** total stars earned (all time) 
+:star: **97** total stars earned (all time) 
 
 :memo: **9** total commits authored this year (all time: **1,369**)
 
