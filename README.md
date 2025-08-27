@@ -21,7 +21,6 @@
 
 ## Currently Working On 👨🏻‍💻...
 
-- [USHS-Housing-Portal](https://github.com/TritonSE/USHS-Housing-Portal) - A web application that aims to centralize and streamline the everyday workflows of the team at Union Station Homeless Services, a non-profit organization committed to helping homeless individuals and families rebuild their lives.
 
 
 ## Latest Releases ✅
@@ -65,11 +64,6 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
- TypeScript|  ██████████████████████████████ 93.28%
- JavaScript|  █ 4.34%
-      Shell|   1.37%
-        Pug|   0.53%
-       HTML|   0.48%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
