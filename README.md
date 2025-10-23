@@ -21,7 +21,6 @@
 
 ## Currently Working On 👨🏻‍💻...
 
-- [CBL-Mobile-Application](https://github.com/TritonSE/CBL-Mobile-Application) - An application centralizing the resources of Call BlackLine, a non-profit org providing a space for peer support, counseling, and reporting of mistreatment
 
 
 ## Latest Releases ✅
@@ -65,11 +64,6 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
-        Dart|  ██████████████████████████████ 98.98%
-        Ruby|   0.72%
-       Swift|   0.21%
-      Kotlin|   0.07%
- Objective-C|   0.02%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
