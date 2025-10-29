@@ -57,7 +57,7 @@
 
 :rocket: **7** total pull requests created this year (all time: **254**)
 
-:bangbang: **0** total issues created this year (all time: **102**)
+:bangbang: **0** total issues created this year (all time: **104**)
 
 
 
