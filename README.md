@@ -21,6 +21,8 @@
 
 ## Currently Working On 👨🏻‍💻...
 
+- [notif](https://github.com/petabite/notif) - Programmatically send custom push notifications to your phone 
+- [supernetes](https://github.com/petabite/supernetes) - home in the cloud for my projects
 
 
 ## Latest Releases ✅
@@ -53,7 +55,7 @@
 
 :star: **112** total stars earned (all time) 
 
-:memo: **16** total commits authored this year (all time: **1,297**)
+:memo: **19** total commits authored this year (all time: **1,300**)
 
 :rocket: **7** total pull requests created this year (all time: **254**)
 
@@ -64,6 +66,18 @@
 ## Currently Writing [🐍](https://petabite.github.io/JSnake/jsnake.html)...
 
 ```
+ TypeScript|  ██████████████████████████████ 20.94%
+     Kotlin|  ███████████████████████████ 19.02%
+        HCL|  ███████████████ 10.74%
+       Ruby|  ██████████████ 10.33%
+     Python|  ██████████████ 10.26%
+      Swift|  █████████████ 9.64%
+       HTML|  ████████ 6.17%
+        CSS|  ██████ 4.69%
+ Dockerfile|  ████ 3.22%
+ JavaScript|  ███ 2.46%
+   Makefile|  ███ 2.11%
+          C|   0.43%
 ```
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=petabite&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true"> -->
