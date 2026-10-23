@@ -55,9 +55,9 @@
 
 :memo: **0** total commits authored this year (all time: **1,300**)
 
-:rocket: **0** total pull requests created this year (all time: **211**)
+:rocket: **0** total pull requests created this year (all time: **254**)
 
-:bangbang: **0** total issues created this year (all time: **0**)
+:bangbang: **0** total issues created this year (all time: **104**)
 
 
 
